@@ -1,3 +1,7 @@
+html {
+    height: 100%;
+}
+
 body {
     background-color: #252627;
     font-family: 'Poppins', sans-serif;
@@ -22,6 +26,7 @@ body {
 
 ul {
     list-style: none;
+    padding: 0;
 }
 
 ul li {
@@ -34,5 +39,18 @@ p {
 }
 
 i {
-    color: red;
+    color: #ff6161;
+}
+
+a {
+    color: #fff;
+}
+
+a:hover {
+    color: #ff6161;
+}
+
+h2 {
+    margin-top: 4%;
+    margin-bottom: 4%;
 }
