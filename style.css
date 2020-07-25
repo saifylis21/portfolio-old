@@ -1,0 +1,38 @@
+body {
+    background-color: #252627;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    padding: 0 200px 0 200px;
+    text-align: center;
+}
+
+.pink-color {
+    color: #ff6161;
+}
+
+.white-color {
+    color: #fff;
+}
+
+.grey-color {
+    color: #5b5e63;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    color: #fff;
+    margin-top: 12px;
+}
+
+p {
+    line-height: 2.3;
+}
+
+i {
+    color: red;
+}
