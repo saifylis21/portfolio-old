@@ -8,7 +8,6 @@ body {
 }
 
 .container {
-    padding: 0 200px 0 200px;
     text-align: center;
 }
 
@@ -35,7 +34,7 @@ ul li {
 }
 
 p {
-    line-height: 2.3;
+    line-height: 2.1;
 }
 
 i {
@@ -53,4 +52,8 @@ a:hover {
 h2 {
     margin-top: 4%;
     margin-bottom: 4%;
+}
+
+.details {
+    margin-top: 1.3%;
 }
